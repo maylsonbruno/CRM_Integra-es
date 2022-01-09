@@ -1,2 +1,2 @@
 # CRM_Integra-es
-# alguns integrações com o console  no c#  com o Dynamics 365 
+#  integrações  e Customizações com o Dynamics 365  usando Power apps  e  atraves do console em c# 
